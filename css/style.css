@@ -1,0 +1,19 @@
+/* =================================
+   STYLE DASAR WEBSITE IKMADA
+================================= */
+
+/* Font utama */
+body {
+  font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+/* Scroll halus */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Warna ketika teks diseleksi */
+::selection {
+  background-color: #16834a;
+  color: #ffffff;
+}
